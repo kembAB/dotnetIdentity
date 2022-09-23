@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace MVCWebApp.Models.Role
 {
+    // The role selector authentication 
     public class AddToRoleViewModel
     {
         public SelectList Roles { get; set; }
